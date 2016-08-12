@@ -1,5 +1,6 @@
-/.idea
-/cache
-/vendor
+.idea
+cache
+vendor
 jssearch.index.js
 errors.txt
+composer.lock
